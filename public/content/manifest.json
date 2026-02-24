@@ -1,0 +1,20 @@
+[
+  {
+    "id": "introduction",
+    "title": "Introduction to Gold Mining in Nova Scotia",
+    "filename": "introduction.md",
+    "description": "Overview of gold mining history in Nova Scotia"
+  },
+  {
+    "id": "mining-techniques",
+    "title": "Mining Techniques",
+    "filename": "mining-techniques.md",
+    "description": "Evolution of mining techniques from placer to underground mining"
+  },
+  {
+    "id": "major-districts",
+    "title": "Major Gold Mining Districts",
+    "filename": "major-districts.md",
+    "description": "Exploration of the most productive gold mining districts"
+  }
+]
